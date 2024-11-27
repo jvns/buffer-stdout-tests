@@ -7,6 +7,9 @@ languages that fully buffer stdout:
 * Python
 * Ruby
 
+There are examples of how to make them not buffer in the `nobuf` folder, though
+they might not be very idiomatic.
+
 languages that don't:
 
 * Go
@@ -15,3 +18,5 @@ languages that don't:
 * Lua
 * Rust
 * Bash
+
+
