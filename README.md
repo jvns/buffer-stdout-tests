@@ -1,8 +1,9 @@
-# buffering in 10 languages
+# buffering in 11 languages
 
 languages that fully buffer stdout:
 
 * C
+* Haskell
 * Perl
 * Python
 * Ruby
