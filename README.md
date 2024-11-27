@@ -15,3 +15,4 @@ languages that don't:
 * Lua
 * Rust
 * Bash
+* C++
